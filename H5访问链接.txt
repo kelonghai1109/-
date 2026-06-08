@@ -1,5 +1,5 @@
 H5 网页链接：
-https://cdn.jsdelivr.net/gh/kelonghai1109/-@main/index.html
+https://raw.githack.com/kelonghai1109/-/main/index.html
 
 二维码图片链接：
-https://api.qrserver.com/v1/create-qr-code/?size=360x360&data=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fkelonghai1109%2F-%40main%2Findex.html
+https://api.qrserver.com/v1/create-qr-code/?size=360x360&data=https%3A%2F%2Fraw.githack.com%2Fkelonghai1109%2F-%2Fmain%2Findex.html
