@@ -1,5 +1,5 @@
 H5 网页链接：
-https://raw.githack.com/kelonghai1109/-/main/index.html
+https://kelonghai1109.github.io/-/
 
 二维码图片链接：
-https://api.qrserver.com/v1/create-qr-code/?size=360x360&data=https%3A%2F%2Fraw.githack.com%2Fkelonghai1109%2F-%2Fmain%2Findex.html
+https://api.qrserver.com/v1/create-qr-code/?size=360x360&data=https%3A%2F%2Fkelonghai1109.github.io%2F-%2F
